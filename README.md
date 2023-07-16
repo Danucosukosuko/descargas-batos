@@ -7,3 +7,7 @@ Si quiere actualizar todos los programas internos, use (refetch-os - FASE BETA)
 
 # PROHIBIDO
 Subir programas que puedan causar daños en el Sistema
+
+
+
+## Gracias a FreePik por la flecha de descarga de la portada
