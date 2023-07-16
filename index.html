@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub Pages Message</title>
+</head>
+<body>
+    <h1>Mensaje desde GitHub Pages</h1>
+    <p>¡Hola! Este es el mensaje que se mostrará cuando hagas un curl a tu página web.</p>
+
+    <script>
+        // Detecta si la página ha sido solicitada a través de un "curl"
+        if (window.location.protocol === 'http:') {
+            document.addEventListener("DOMContentLoaded", function () {
+                // Muestra un mensaje en la consola del navegador
+                console.log("¡Mensaje desde GitHub Pages!");
+            });
+        }
+    </script>
+</body>
+</html>
